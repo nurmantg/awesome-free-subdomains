@@ -28,6 +28,7 @@
 * **[is-a.dev](https://is-a.dev/)** — Free `*.is-a.dev` subdomains for developers managed via GitHub pull requests.
 * **[js.org](https://js.org/)** — Free `*.js.org` subdomains for JavaScript-related open-source projects.
 * **[pp.ua](https://nic.ua/)** — Free `*.pp.ua` subdomains with SMS verification.
+* **[Linkora](https://linkora.top/)** — Free developer subdomains for side projects. One free hostname, no card required.
 
 ---
 
